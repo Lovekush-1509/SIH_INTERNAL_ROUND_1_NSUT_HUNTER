@@ -11,10 +11,10 @@ Team Members:
     <a href="https://github.com/account">@AmanYadav</a>
   </li>
   <li>MEMBER_2-2022UCB6046-
-    <a href="https://www.w3schools.com">@AnujBadmosh</a>
+    <a href="https://github.com/Anujsurya">@AnujBadmosh</a>
   </li>
   <li>MEMBER_3-2022UCB6055-
-    <a href="https://www.w3schools.com">@AdityaBhatt</a>
+    <a href="github.com/AdityaBhatt07">@AdityaBhatt</a>
   </li>
   <li>MEMBER_4-2022UCB6051-
     <a href="https://github.com/anshika2193">@Anshika</a>
