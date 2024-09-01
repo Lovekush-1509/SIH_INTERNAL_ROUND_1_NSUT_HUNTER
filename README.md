@@ -29,6 +29,6 @@ Team Members:
 
 ## Demo Video
 <video>
-<source src="./DemoVideo/FitTrack(1).mp4" type="video/mp4">
+<source src="./DemoVideo/video.mp4" type="video/mp4">
 </video>
 
