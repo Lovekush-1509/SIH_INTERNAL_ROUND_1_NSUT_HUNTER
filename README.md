@@ -28,10 +28,7 @@ Team Members:
 </ul>
 
 ## Demo Video
-<video
-  loop
-  autoplay
->
-><source src="./DemoVideo/FitTrack(1).mp4" type="video/mp4">
+<video>
+<source src="./DemoVideo/FitTrack(1).mp4" type="video/mp4">
 </video>
 
