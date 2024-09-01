@@ -27,4 +27,3 @@ Team Members:
   </li>
 </ul>
 
-<h2>Project Links</h2>
