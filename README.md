@@ -32,6 +32,6 @@ Team Members:
   loop
   autoplay
 >
-  src="./DemoVideo/FitTrack.mp4"
+  src="DemoVideo/FitTrack(1).mp4"
 </video>
 
