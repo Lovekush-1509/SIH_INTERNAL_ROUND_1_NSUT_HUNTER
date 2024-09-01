@@ -20,7 +20,7 @@ Team Members:
     <a href="https://www.w3schools.com">@Anshika</a>
   </li>
   <li>MEMBER_5-2022UCB6067-
-    <a href="https://web.whatsapp.com/">@Sheena</a>
+    <a href="https://github.com/shhxx02">@Sheena</a>
   </li>
   <li>MEMBER_6-2022UCB6052-
     <a href="https://github.com/Lovekush-1509">@Lovekush</a>
