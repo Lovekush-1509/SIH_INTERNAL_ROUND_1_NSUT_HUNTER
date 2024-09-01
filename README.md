@@ -27,3 +27,11 @@ Team Members:
   </li>
 </ul>
 
+## Demo Video
+<video
+  loop
+  autoplay
+>
+  src="./DemoVideo/FitTrack.mp4"
+</video>
+
