@@ -8,22 +8,22 @@ Team Leader:<a href="https://www.w3schools.com">Aman Yadav</a>
 Team Members:
 <ul>
   <li>MEMBER_1-2022UCB6049-
-    <a href="https://www.w3schools.com">Aman Yadav</a>
+    <a href="https://www.w3schools.com">@AmanYadav</a>
   </li>
   <li>MEMBER_2-2022UCB6046-
-    <a href="https://www.w3schools.com">Anuj Badmosh</a>
+    <a href="https://www.w3schools.com">@AnujBadmosh</a>
   </li>
   <li>MEMBER_3-2022UCB6055-
-    <a href="https://www.w3schools.com">Aditya Bhatt</a>
+    <a href="https://www.w3schools.com">@AdityaBhatt</a>
   </li>
   <li>MEMBER_4-2022UCB6051-
-    <a href="https://www.w3schools.com">Anshika</a>
+    <a href="https://www.w3schools.com">@Anshika</a>
   </li>
   <li>MEMBER_5-2022UCB6049-
-    <a href="https://www.w3schools.com">Sheena</a>
+    <a href="https://www.w3schools.com">@Sheena</a>
   </li>
   <li>MEMBER_6-2022UCB6052-
-    <a href="https://github.com/Lovekush-1509">Lovekush</a>
+    <a href="https://github.com/Lovekush-1509">@Lovekush</a>
   </li>
 </ul>
 
