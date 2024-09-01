@@ -40,3 +40,12 @@ Stripe: For handling payments securely within the app.</p>
     Feature 3:User-Friendly Interface:* Navigate and log exercises effortlessly with a clean and intuitive design.
   </li>
 </ul>
+
+<h2>Local Setup Instructions</h2>
+```
+git clone 
+```
+<strong>Change directory to <span>"client"</span></strong>
+```
+npm i
+```
