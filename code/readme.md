@@ -43,6 +43,12 @@ Stripe: For handling payments securely within the app.</p>
 
 <h2>Local Setup Instructions</h2>
 
+## Clone this repository
+
+```
+git clone https://github.com/Lovekush-1509/beFit_SiH.git
+```
+
 ## Installation
 
 To run this project, install it locally using npm:
