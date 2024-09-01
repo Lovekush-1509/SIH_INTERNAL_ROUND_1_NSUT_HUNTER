@@ -42,10 +42,19 @@ Stripe: For handling payments securely within the app.</p>
 </ul>
 
 <h2>Local Setup Instructions</h2>
+
+## Installation
+
+To run this project, install it locally using npm:
+
 ```
-git clone 
+npm install
 ```
-<strong>Change directory to <span>"client"</span></strong>
+
+## Usage
+
+After installing npm packages, the application will be invoked by using the following command:
+
 ```
-npm i
+npm run develop
 ```
