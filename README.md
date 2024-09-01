@@ -27,8 +27,4 @@ Team Members:
   </li>
 </ul>
 
-## Demo Video
-<video>
-<source src="./DemoVideo/video.mp4" type="video/mp4">
-</video>
 
