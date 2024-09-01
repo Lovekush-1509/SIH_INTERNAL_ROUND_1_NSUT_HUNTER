@@ -3,7 +3,7 @@
 <h2>Team Details</h2>
 Team Name:<h2>Nsut.hunters</h2>
 
-Team Leader:<a href="https://www.w3schools.com">Aman Yadav</a>
+Team Leader:<a href="https://github.com/account">@AmanYadav</a>
 
 Team Members:
 <ul>
