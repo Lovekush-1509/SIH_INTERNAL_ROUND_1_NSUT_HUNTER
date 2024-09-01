@@ -17,7 +17,7 @@ Team Members:
     <a href="https://www.w3schools.com">@AdityaBhatt</a>
   </li>
   <li>MEMBER_4-2022UCB6051-
-    <a href="https://www.w3schools.com">@Anshika</a>
+    <a href="https://github.com/anshika2193">@Anshika</a>
   </li>
   <li>MEMBER_5-2022UCB6067-
     <a href="https://github.com/shhxx02">@Sheena</a>
