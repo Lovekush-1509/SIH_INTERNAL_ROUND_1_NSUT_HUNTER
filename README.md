@@ -8,7 +8,7 @@ Team Leader:<a href="https://www.w3schools.com">Aman Yadav</a>
 Team Members:
 <ul>
   <li>MEMBER_1-2022UCB6049-
-    <a href="https://www.w3schools.com">@AmanYadav</a>
+    <a href="https://github.com/account">@AmanYadav</a>
   </li>
   <li>MEMBER_2-2022UCB6046-
     <a href="https://www.w3schools.com">@AnujBadmosh</a>
