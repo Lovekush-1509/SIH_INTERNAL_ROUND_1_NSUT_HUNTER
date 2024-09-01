@@ -56,5 +56,5 @@ npm install
 After installing npm packages, the application will be invoked by using the following command:
 
 ```
-npm run develop
+npm run dev
 ```
