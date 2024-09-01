@@ -1,0 +1,14 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run start\"",
+    "install": "cd server && npm i && cd ../client && npm i"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
